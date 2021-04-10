@@ -1,0 +1,23 @@
+
+#pronostico{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+i{
+    font: size 1.5em;
+}
+
+.prediccion{
+    margin-top: 300px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:  10px;
+    margin-right: 10px;
+    border: solid black;
+    flex-wrap: wrap;
+    
+}
